@@ -1,0 +1,1 @@
+Car{carId='Car10000', name='abc', color='abc', price=2222, brand='abc', type='abc', yearOfManufacture='2222'}Motorbike{motorbikeId='Motorbike10000', name='xyz', color='black', price=1000, brand='bacl', speed='1200', requireLicense='n'}
